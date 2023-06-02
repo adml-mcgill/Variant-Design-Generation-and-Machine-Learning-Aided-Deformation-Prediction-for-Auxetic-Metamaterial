@@ -1,0 +1,3 @@
+Contour and error maps of calculated strain for designs in the test set can be downloaded by:
+
+https://drive.google.com/drive/folders/1T_xtqc6IkaiXp67bSy6N2QHhWVsNb3YX?usp=sharing
